@@ -19,7 +19,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Cryptoveri
 email      : cryptoveri@naver.com #this is also the email contact forms will go to
-description: "Cryptoveri is a Blockchain-based Sustainable Verification."
+description: "Cryptoveri is a Sustainable Verification on Blockchain."
 author     : Cryptoveri
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
