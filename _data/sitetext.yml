@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Design"
         desc: "Advise on blockchain application design in various industries"
-        icon: fab fa-markdown #fas fa-grid-2-plus
+        icon: fab fa-grid-2-plus #fas fa-grid-2-plus
         #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Smart Contract"
         desc: "Advise on smart contract and blockchain application service development"
