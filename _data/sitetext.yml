@@ -18,20 +18,20 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Verification on Blockchain, especially Cardano"
+    text: "Verification on Blockchain"
     section: services
     list:
       - title: "Design"
         desc: "Advise on blockchain application design in various industries"
-        icon: fas fa-solid fa-grid-2-plus
+        icon: fas fa-grid-2-plus
         #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Smart Contract"
         desc: "Advise on smart contract and blockchain application service development"
-        icon: fas fa-solid fa-binary-lock
+        icon: fas fa-binary-lock
         # fas fa-laptop
       - title: "[Verification](https://en.wikipedia.org/wiki/Verification)"
         desc: "Blockchain-based **verification** service for digital data and electronic document evidence"
-        icon: fas fa-solid fa-shield-check
+        icon: fas fa-shield-check
         # fab fa-markdown
 
   about:
