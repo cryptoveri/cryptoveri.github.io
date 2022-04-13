@@ -1,18 +1,20 @@
 ---
 title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+subtitle: Initiating Blockchain Project
+image: assets/img/portfolio/network-3484139.jpg 
+# 01-full.jpg
+alt: Initiation
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Crpytocurrency
+  subtitle: Initation
+  thumbnail: assets/img/portfolio/network-3484139_640.jpg
+  # 01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Hdac Blockchain Startup. Core, wallet, explorer R&D. Cryptocurrency token economy design. Public network deployment.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: May 2017
+- Client: Public
+- Category: Blockchain
 
