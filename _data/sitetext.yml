@@ -48,8 +48,8 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2017-2022"
-        desc: "Over 20 years of experience in various fields - security, networks, systems, energy, etc. In 2015, I was introduced to Bitcoin and became interested in blockchain and cryptocurrency. Since 2017, I have researched various blockchains such as Ethereum, Ripple, and Cardano as well as Bitcoin in earnest. Independent block chain network configuration, token design, and core research and development were conducted. Developed an online wallet and public service."
+        year: "2015-2022"
+        desc: "In various fields - security, networks, systems, energy, etc, We have experience over 20 years. In 2015, I was introduced to Bitcoin and became interested in blockchain and cryptocurrency. Since 2017, I have researched various blockchains such as Ethereum, Ripple, and Cardano as well as Bitcoin in earnest. Independent blockchain network configuration, token design, and core research and development were conducted. Developed an online wallet and public service."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Startup"
