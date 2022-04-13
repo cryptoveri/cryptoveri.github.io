@@ -12,13 +12,13 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Cryptoveri!
-    text: Cryptoveri is a Blockchain-based Sustainable Verification.
+    text: Cryptoveri is a Sustainable Verification on Blockchain.
     button: More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Blockchain-based Verification"
+    text: "Verification on Blockchain, especially Cardano"
     section: services
     list:
       - title: "Design"
