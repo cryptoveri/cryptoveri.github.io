@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         # fas fa-laptop
       - title: "[Verification](https://en.wikipedia.org/wiki/Verification)"
         desc: "Blockchain-based **verification** service for digital data and electronic document evidence"
-        icon: fas fa-shield-check # fas fa-shield-check
+        icon: fa fa-shield-check # fas fa-shield-check
         # fab fa-markdown
         
   portfolio:
