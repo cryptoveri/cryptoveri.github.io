@@ -23,15 +23,15 @@ en: &DEFAULT_EN
     list:
       - title: "Design"
         desc: "Advise on blockchain application design in various industries"
-        icon: fas fa-grid-2-plus
+        icon: fab fa-markdown #fas fa-grid-2-plus
         #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Smart Contract"
         desc: "Advise on smart contract and blockchain application service development"
-        icon: as fa-laptop # fas fa-binary-lock
+        icon: fab fa-markdown #fas fa-laptop # fas fa-binary-lock
         # fas fa-laptop
       - title: "[Verification](https://en.wikipedia.org/wiki/Verification)"
         desc: "Blockchain-based **verification** service for digital data and electronic document evidence"
-        icon: fas fa-shield-check
+        icon: fab fa-markdown # fas fa-shield-check
         # fab fa-markdown
 
   about:
