@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to CryptoVeri!
+    title: Welcome to Cryptoveri!
     text: Cryptoveri is a Blockchain-based Sustainable Verification.
     button: More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Blockchain-based Verification"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Design"
+        desc: "Advise on blockchain application design in various industries"
+        icon: fa-solid fa-grid-2-plus #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Smart Contract"
+        desc: "Advise on smart contract and blockchain application service development"
+        icon: fa-solid fa-binary-lock         # fas fa-laptop
+      - title: "[Verification](https://en.wikipedia.org/wiki/Verification)"
+        desc: "Blockchain-based **verification** service for digital data and electronic document evidence"
+        icon: fa-solid fa-shield-check        # fab fa-markdown
 
   portfolio:
     title: "Portfolio"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Based on experience in various IT fields - security, network, energy, and blockchain, cryptocurrency - over a long period of time, we provide advice on the design of emerging blockchain services and cryptocurrency tokeneconomy design."
     section: about
 
   clients:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Check out"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
