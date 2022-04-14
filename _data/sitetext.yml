@@ -21,8 +21,8 @@ en: &DEFAULT_EN
     text: "Verification on Blockchain"
     section: services
     list:
-      - title: "Design"
-        desc: "Advise on blockchain application design in various industries"
+      - title: "Architect"
+        desc: "Advise on blockchain architect and service design in various industries"
         icon: fas fa-plus fa-3x #fas fa-laptop-code #fas fa-grid-2-plus
         #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Smart Contract"
@@ -37,6 +37,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     text: "Entrepreneur"
+    start_align: "center"
     section: portfolio
     closebutton: "Close Project"
 
