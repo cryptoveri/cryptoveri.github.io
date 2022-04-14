@@ -6,12 +6,12 @@ image: assets/img/portfolio/network-3484139.jpg
 alt: Initiation
 
 caption:
-  title: Crpytocurrency
-  subtitle: Initation
+  title: Blockchain
+  subtitle: Initator
   thumbnail: assets/img/portfolio/network-3484139_640.jpg
   # 01-thumbnail.jpg
 ---
-Hdac Blockchain Startup. Core, wallet, explorer R&D. Cryptocurrency token economy design. Public network deployment.
+Hdac Blockchain Startup. Core architect and cryptography R&D. Developing wallet, explorer and services. Cryptocurrency token economy design. Public network deployment.
 
 {:.list-inline}
 - Date: May 2017
