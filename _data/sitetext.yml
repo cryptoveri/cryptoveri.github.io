@@ -83,7 +83,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/CryptoVeri_
         icon: "fab fa-twitter"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
