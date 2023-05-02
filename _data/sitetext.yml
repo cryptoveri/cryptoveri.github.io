@@ -85,10 +85,10 @@ en: &DEFAULT_EN
     social:
       - url: https://twitter.com/CryptoVeri_
         icon: "fab fa-twitter"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/cryptoveri
-        icon: "fab fa-github"
+      #- url: https://linkedin.com
+      #  icon: "fab fa-linkedin-in"
+      #- url: https://github.com/cryptoveri
+      #  icon: "fab fa-github"
      
 en-US:
   <<: *DEFAULT_EN
