@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "Email us at cryptoveri@naver.com."
     section: contact
-    name: "Name*: (At the moment, please do email directly to cryptoveri@naver.com)"
+    name: "Name*:(Please do email directly to cryptoveri@naver.com)"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
