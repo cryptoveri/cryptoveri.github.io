@@ -65,20 +65,20 @@ en: &DEFAULT_EN
     body: "Based on experience in various IT fields - security, network, energy, and blockchain, cryptocurrency - over a long period of time, we provide advice on the design of emerging blockchain services and cryptocurrency tokeneconomy design."
     section: about
 
-  #contact:
-    # title: "Contact Us"
-    # text: "Email us at cryptoveri@naver.com."
-    # section: contact
-    # name: "Name*"
-    # name-validation: "Please enter your name."
-    # email: "Email*"
-    # email-validation: "Please enter your email address."
-    # phone: "Phone Number"
-    # phone-validation: "Please enter your phone number."
-    # message: "Message*"
-    # message-validation: "Please enter a message."
-    # subject: "Contact Form Submission"
-    # submit: "Send Message"
+  contact:
+    title: "Contact Us"
+    text: "Email us at cryptoveri@naver.com."
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
